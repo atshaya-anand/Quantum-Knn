@@ -1,6 +1,6 @@
 # Quantum kNN
 
-** Quantum kNN** is a pure quantum knn classifier for a gated quantum
+**Quantum kNN** is a pure quantum knn classifier for a gated quantum
 computer, which is build with [**Qiskit**][qiskit-github].
 
 Qiskit Quantum kNN is made as a final project to fulfill a master's degree
